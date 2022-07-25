@@ -1,5 +1,5 @@
 # boring-smart-farm
-Just another Boring Smart Farm Project of 2021. Works based on the IoT working principle, where data is communicated between the microcontroller and the web page using Node-Red. See just another tediuos and monotonous smart farm from 2014 oops sorry 2021 🙄. This (unexciting) project is part of gifted computers 3 and 4 courses in the 2020 academic year.
+Just another Boring Smart Farm Project of 2021. Works based on the IoT working principle, where data is communicated between the microcontroller and the web page using Node-Red. See, just another tediuos and monotonous smart farm from 2014 oops sorry 2021 🙄. This (unexciting) project is part of gifted computers 3 and 4 courses in the 2020 academic year.
 
 contributor
 1. Krittin Leewanich (กฤติน ลีวณิชย์)
